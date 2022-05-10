@@ -2,7 +2,9 @@
   <img alt="Next Level Week #8" src=".github/capa.png" />
 </p>
 
+<div align="center">
 [Site Preview](https://nwl-return-feedback-widget.vercel.app/)
+</div>
 
 ## About :checkered_flag:
 
@@ -13,7 +15,7 @@ The backend is used for collecting the feedback and sending emails and saving fe
 
 This is a project developed during Next Level Week, presented by **[Rocketseat](https://www.rocketseat.com.br)**.
 
-## 🎯 Funcionalidades
+## 🎯 Features
 
 - ✔️ Submit feedbacks
 - ✔️ Screenshot with html2canvas
